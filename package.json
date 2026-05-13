@@ -1,0 +1,11 @@
+{
+  "name": "sideproject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix wave run dev",
+    "build": "npm --prefix wave run build",
+    "start": "npm --prefix wave run start",
+    "lint": "npm --prefix wave run lint"
+  }
+}

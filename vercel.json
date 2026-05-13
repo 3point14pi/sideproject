@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm --prefix wave install --legacy-peer-deps",
+  "outputDirectory": "wave/.next"
+}

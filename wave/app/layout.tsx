@@ -3,14 +3,14 @@ import './globals.css'
 import { Providers } from '@/components/Providers'
 
 export const metadata: Metadata = {
-  title: 'Wave — messaging that feels human',
-  description: 'Real-time chat with presence, reactions, and quoted replies.',
+  title: 'Sideproject Hub',
+  description: 'Unified landing page for MogScore, Pinch, Tell, and Wave.',
   manifest: '/manifest.json',
-  appleWebApp: { capable: true, statusBarStyle: 'default', title: 'Wave' },
+  appleWebApp: { capable: true, statusBarStyle: 'default', title: 'Sideproject Hub' },
 }
 
 export const viewport: Viewport = {
-  themeColor: '#f5f0e8',
+  themeColor: '#080808',
   width: 'device-width',
   initialScale: 1,
 }
